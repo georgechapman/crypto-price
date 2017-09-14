@@ -1,6 +1,6 @@
 {
   "name": "crypto-price",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Node.js Module that allows you to convert Crypto Currency price to Local Currency",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DakshMiglani/crypto-price.git"
+    "url": "git+https://github.com/georgechapman/crypto-price.git"
   },
   "keywords": [
     "Crypto",
@@ -25,9 +25,9 @@
   "author": "Daksh Miglani <hello@dak.sh> (https://dak.sh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DakshMiglani/crypto-price/issues"
+    "url": "https://github.com/georgechapman/crypto-price/issues"
   },
-  "homepage": "https://github.com/DakshMiglani/crypto-price#readme",
+  "homepage": "https://github.com/georgechapman/crypto-price#readme",
   "dependencies": {
     "request": "^2.81.0"
   }
